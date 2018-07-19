@@ -1,0 +1,1 @@
+# vue-ckeditor2-example

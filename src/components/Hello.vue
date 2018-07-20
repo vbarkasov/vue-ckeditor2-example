@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { VueCkeditor } from 'vue-ckeditor2';
+import VueCkeditor from 'vue-ckeditor2';
 
 export default {
   name: 'hello',
